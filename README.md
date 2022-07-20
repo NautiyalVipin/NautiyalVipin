@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NautiyalVipin
 - 👀 I’m interested in learning new and upcoming technologies
-- 🌱 I’m currently learning NextJS and NodeJS 
+- 🌱 I’m currently learning Next.js and Node.js 
 - 💞️ I’m looking to collaborate on MERN/MEAN stack projects
 - 📫 How to reach me blifeology@gmail.com
 
